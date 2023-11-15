@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-#include <bool.h>
+#include <stdbool.h>
 void my_ammazing_prompt(void);
 void evody_print(const char my_instructions);
 void presenting_instructions(const *instructuions size_t size);
